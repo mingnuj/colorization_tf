@@ -1,4 +1,6 @@
 # colorization_tf
-CNN colorization with tensorflow.
+# CNN colorization with tensorflow.
 
-It is just a personal study.
+### [Project Page](https://richzhang.github.io/ideepcolor/)
+### [paper](https://arxiv.org/abs/1705.02999)
+### [Origin Code](https://github.com/junyanz/interactive-deep-colorization)

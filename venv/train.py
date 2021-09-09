@@ -7,8 +7,7 @@ import PIL.Image as Image
 import time
 import math
 
-# from load import *
-from load2 import *
+from load import *
 from network import *
 from utils import *
 
